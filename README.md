@@ -274,7 +274,7 @@ Contribuições são bem-vindas! Por favor, veja [CONTRIBUTING.md](CONTRIBUTING.
 
 - 📝 Abra uma [issue](https://github.com/yourusername/GenAI-Viability-Analyzer/issues)
 - 💬 Discussões no GitHub
-- 📧 Contato: seu-email@example.com
+- 📧 Contato: daniel.alfredo.tech@outlook.com
 
 ## 🙏 Agradecimentos
 
